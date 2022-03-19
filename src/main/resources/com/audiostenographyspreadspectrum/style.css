@@ -1,0 +1,19 @@
+.tab-header-background {
+    -fx-background-color: #282c34;
+}
+
+.tab-pane {
+    -fx-tab-min-width:420px;
+    -fx-tab-max-width:960px;
+    -fx-tab-min-height:40px;
+    -fx-tab-max-height:40px;
+}
+
+.tab {
+    -fx-font-size: 18;
+    -fx-background-color:#282c34;
+    -fx-text-base-color: white
+}
+.tab:selected{
+    -fx-background-color:#24529f;
+}
